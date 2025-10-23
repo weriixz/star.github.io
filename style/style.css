@@ -153,7 +153,7 @@ li {
    h1 {
     text-align: center;
     font-size: 6cap;
-    margin-top: -6cap;
+    margin-top: -7cap;
     color: rgb(255, 255, 255);
     text-shadow: 2px 2px 5px rgba(1, 0, 0, 1);
 }
@@ -170,8 +170,8 @@ h2 {
 
 p {
     color: white;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
     text-align: justify;
     font-size: 16px;
 } 
@@ -195,15 +195,15 @@ h3 {
 li {
     color: white;
     margin-top: 1cap;
-    margin-left: 30px;
-    margin-right: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
     text-align: justify;
     font-size: 16px;
 }
 
 .star {
     margin-top: 4cap;
-    width: 90%;
+    width: 95%;
     height: 500px;
     box-shadow: 2px 2px 5px rgba(1, 0, 0, 1);
 }
@@ -222,16 +222,16 @@ li {
 
 .four {
     margin-top: 2cap;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
     text-shadow: 2px 2px 5px rgba(1, 0, 0, 1);
     font-size: 13px;
 }
 
 .five {
     margin-top: 2cap;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
     text-shadow: 2px 2px 5px rgba(1, 0, 0, 1);
     font-size: 13px;
 }
@@ -258,8 +258,8 @@ li {
 
 .six {
     margin-top: 2cap;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
     text-shadow: 2px 2px 5px rgba(1, 0, 0, 1);
     font-size: 13px;
 }
@@ -273,6 +273,7 @@ li {
 }
 
 .yyy {
-    margin-top: 12cap;
+    margin-top: 9cap;
 }
 }
+
